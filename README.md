@@ -19,13 +19,13 @@
 ## 🚀 Featured Project
 ### AI Chat Bot
 A small AI-powered chatbot designed to assist users and demonstrate basic front-end and AI integration skills.  
-/gabe.gomez/OneDrive%20-%20American%20Cancer%20Society/Desktop/ChatBot%20AI.html <!-- Replace # with your repo link or update once published -->
+[file:///C:/Users/gabe.gomez/OneDrive%20-%20American%20Cancer%20Society/Desktop/ChatBot%20AI.html] <!-- Replace # with your repo link or update once published -->
 
 ## 📈 GitHub Stats
 ![GGomez97-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGomez97-dev&show_icons=true&theme=radical)
 
 ## 🤝 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/gabriel-g-6a853b91]) <!-- Update with your actual LinkedIn -->
+- [LinkedIn](https://www.linkedin.com/in/gabriel-g-6a853b91) <!-- Update with your actual LinkedIn -->
 - [Email](gabrielgo64@gmail.com) <!-- Update with your actual email -->
 
 ## 💡 Fun Fact
