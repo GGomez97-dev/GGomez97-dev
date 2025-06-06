@@ -26,7 +26,7 @@ A small AI-powered chatbot designed to assist users and demonstrate basic front-
 
 ## 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/gabriel-g-6a853b91) <!-- Update with your actual LinkedIn -->
-- [Email](gabrielgo64@gmail.com) <!-- Update with your actual email -->
+- [Email](mailto:gabrielgo64@gmail.com) <!-- Update with your actual email -->
 
 ## 💡 Fun Fact
 I love working on projects that help people and make technology more accessible!
