@@ -25,8 +25,8 @@ A small AI-powered chatbot designed to assist users and demonstrate basic front-
 ![GGomez97-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGomez97-dev&show_icons=true&theme=radical)
 
 ## 🤝 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/gabriel-g-6a853b91/)) <!-- Update with your actual LinkedIn -->
-- [Email](mailto:your@email.com) <!-- Update with your actual email -->
+- [LinkedIn]([https://www.linkedin.com/in/gabriel-g-6a853b91]) <!-- Update with your actual LinkedIn -->
+- [Email](gabrielgo64@gmail.com) <!-- Update with your actual email -->
 
 ## 💡 Fun Fact
 I love working on projects that help people and make technology more accessible!
