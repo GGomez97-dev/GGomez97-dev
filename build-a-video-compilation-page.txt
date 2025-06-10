@@ -1,0 +1,41 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+    <meta name="description" content="Learn about facisnating topics with embedded video content.">
+</head>
+
+<body>
+    <main>
+    <h1>Learnning How to Cook with Easy Videos</h1>
+    <p>Cooking is a fundamental thing most people should learn how to do. Watch these videos to get some help with learnning a few basic know hows.</p>
+
+    <section>
+        <h2>Learn How to Cook in 25 Minutes</h2>
+        <p>Watch Joshua Weissman as he teaches you some pretty simple way you can learn how to cook in just under 25 minutes.</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/P6W8kwmwcno?si=7HLxjm645mz7dvBP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </section>
+
+    <section>
+        <h2>Cooking Tips From a Professional Chef</h2>
+        <p>This video who is lead by Professional Frank Proto, will teach you the little tips and tricks that chefs use to optimize performance and speed in the mundane task of cooking.</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/aopS3q6f1GY?si=8nYjgSolB5aCqybg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </section>
+
+    <section>
+        <h2>50 Cooking Tips Pt.1</h2>
+        <p>Follow along world renowned chef Gordan Ramsey as he gives you his 50 tips on coooking that he deems is something all cooks should know and practce.</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/BHcyuzXRqLs?si=gFOSgVOAu2W03Ob4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </section>
+    
+    </main>
+</body>
+
+</html>
+
+** end of index.html **
+

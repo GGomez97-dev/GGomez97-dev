@@ -1,0 +1,43 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Avocado Toast</title>
+  </head>
+  <body>
+    <h1>Avocado Toast</h1>
+    <p>
+      Recipe to make a simple avoado toast
+    </p>
+    <h2>
+      Ingredients
+    </h2>
+      <ul>
+        <li>Slice of bread</li>
+        <li>Avocado</li>
+        <li>Olive Oil</li>
+        <li>Salt and Pepper</li>
+        <li>Garlic Powder</li>
+        <li>Lemon</li>
+        <li> Chili Flakes / Cayene Pepper</li>
+      </ul>
+    <h2>
+      Instructions
+    </h2>
+      <ol>
+        <li>Toast bread</li>
+        <li>Skin avocado and mash in bowl.</li>
+        <li>Add in salt, pepper, garlic powder, and a squeeze of lemon.</li>
+        <li>Take avocado mix and spread across toast.</li>
+        <li>After spread is done, sprinkle your choice of chili flakes or cayene pepper to the top of the avocado.</li>
+        <li>Finally, drizzle olive oil acros the top of the avocado toast and enjoy!</li>
+      </ol>
+      <img src="https://www.jessicagavin.com/wp-content/uploads/2020/07/avocado-toast-20-1200.jpg" alt="avocado toast">
+  </body>
+</html>
+
+
+** end of index.html **
+
